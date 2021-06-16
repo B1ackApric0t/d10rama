@@ -1,11 +1,6 @@
-# STATIC
+# D10RAMA
 
-**This directory is not required, you can delete it if you don't want to use it.**
+**ビジュアルノベルを作るサークル「D10RAMA」の公式サイト**
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+2020 年 6 月に結成されたビジュアルノベル製作サークル。
+発起人のくろあんずの召集の下、東北のとある都市の演劇団体で出会ったメンバーを中心に構成されている。 演劇活動で培われたスキルが生かされているかどうかは定かではないが、ともかく面白いノベルゲームを作るべく活動している。
