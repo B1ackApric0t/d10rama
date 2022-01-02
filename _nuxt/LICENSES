@@ -1,11 +1,21 @@
 /*!
-  * vue-router v3.5.1
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*!
+  * vue-router v3.5.3
   * (c) 2021 Evan You
   * @license MIT
   */
 
 /*!
- * Vue.js v2.6.13
+ * Vue.js v2.6.14
  * (c) 2014-2021 Evan You
  * Released under the MIT License.
  */
@@ -18,7 +28,7 @@
   */
 
 /*!
- * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
@@ -40,17 +50,13 @@
  * Released under the MIT License.
  */
 
+/*!
+ * vue-youtube v1.4.0
+ * (c) 2019 Antério Vieira
+ * Released under the MIT License.
+ */
+
 /**
 * @link https://github.com/gajus/sister for the canonical source repository
 * @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
 */
-
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
